@@ -1,4 +1,4 @@
-# Hi, I'm (YOUR NAME)
+# Hi, I'm Jose Manuel
 
 <!-- A short sentence that can  describe who you are -->
 
