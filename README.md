@@ -3,7 +3,7 @@
 <!-- A short sentence that can  describe who you are -->
 
 <!-- All of your education background -->
-## Education
+## I am a student of university of the Andes for the carear of biomedical engeniering
 
 - Bachelor: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
 - Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY)
